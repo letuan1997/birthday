@@ -18,7 +18,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "<3": "./imgs/xiaokeai.png",
+        "<3": "./imgs/thuhuyen.jpeg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -28,7 +28,7 @@ var config = {
         bannar_coming: "Treo banner nè",
         balloons_flying: "Bóng bay nè",
         cake_fadein: "Bánh đến đây",
-        light_candle: "Cắm nến nào",
+        light_candle: "Châm nến nào",
         wish_message: "Ước đi bé",
         story: "Lời chúc nè",
     }
