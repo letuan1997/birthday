@@ -3,10 +3,10 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "give it to me",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "my love",  // 同上...
-        "today is your birthday",
-        "kỉ niệm",
+        "Chúc em sinh nhật vui vẻ!",
+        "Luôn mạnh khỏe, vui vẻ và hạnh phúc nhé!",
+        "Yêu Thu Huyền nhiều",
+        "<3",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -18,7 +18,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "<3": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
